@@ -34,12 +34,17 @@
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">        
           </div>
     </div>
-    <div align= "center">
+   <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📧 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:ansgkdms7@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ansgkdms7@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center"></div> 
-    </div>
+    <div align= "center" style="display: flex; justify-content: center; gap: 10px;"> 
+        <a href="mailto:ansgkdms7@gmail.com"> 
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"> 
+        </a> 
+        <a href="mailto:ansgkdms77@daum.net"> 
+            <img src="https://img.shields.io/badge/Daum Mail-003399?style=flat&logo=Mail.Ru&logoColor=white"> 
+        </a> 
+    </div>  
+</div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Portfolio </h2> <br> 
     <div align= "center"> <a href="https://munihani.github.io" style="text-decoration: underline; font-weight: bold;">👩‍💻 Haeun's Portfolio 👩‍💻 </a>
