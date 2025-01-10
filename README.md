@@ -46,12 +46,6 @@
     </div>  
    </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Portfolio </h2> <br> 
-    <div align= "center"> <a href="https://munihani.github.io" style="text-decoration: underline; font-weight: bold;">👩‍💻 Haeun's Portfolio 👩‍💻 </a>
-          </div>  <br> 
-    <div align= "center"></div> 
-    </div>
-    <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Studying </h2> <br> 
     <div align= "center"> 
         <a href="https://www.notion.so/Studying-978bd91280474707b2aa2fe388b9d87e?pvs=4" 
