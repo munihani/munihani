@@ -47,7 +47,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Studying </h2> <br> 
     <div align= "center"> 
-        <a href="https://www.notion.so/Studying-978bd91280474707b2aa2fe388b9d87e?pvs=4" 
+        <a href="https://quickest-humidity-ae2.notion.site/Studying-978bd91280474707b2aa2fe388b9d87e" 
            style="text-decoration: underline; font-weight: bold;">📘 Check out my Notion 📘</a>
     </div>
   </div>
