@@ -3,12 +3,12 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 19px; text-align: center; color: #282d33;"> 보다 더 나은 코드를 통해 가치 있는 변화를 만들고자 노력하며 항상 배우고 성장하려는 개발자입니다! </div> 
+    <div style="font-weight: 700; font-size: 19px; text-align: center; color: #282d33;"> ' 차분 ' 하지만 ' 근성 ' 있는 예비 개발자! 문하은 입니다 :-> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📓 Portfolio </h2> <br> 
     <div align= "center"> 
-        <a href="" 
+        <a href="https://github.com/munihani/munihani/blob/main/MHE_Portfolio.pdf" 
            style="text-decoration: underline; font-weight: bold;">📂 Haeun's Portfolio 📂</a>
     </div>
    </div>
@@ -30,8 +30,7 @@
      <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
           <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/>
-     <br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
+     <br/><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
      <br/><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
