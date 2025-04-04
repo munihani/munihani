@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 19px; text-align: center; color: #282d33;"> ' 차분 ' 하지만 ' 근성 ' 있는 주니어 개발자! 문하은 입니다 :-> </div> 
+    <div style="font-weight: 700; font-size: 19px; text-align: center; color: #282d33;"> 문제 해결과 성장의 즐거움을 아는 개발자, 문하은입니다 :-> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📓 Portfolio </h2> <br> 
