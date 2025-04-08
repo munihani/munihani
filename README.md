@@ -8,7 +8,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📓 Portfolio </h2> <br> 
     <div align= "center"> 
-        <a href="https://github.com/munihani/munihani/blob/main/MHE_Portfolio.pdf" 
+        <a href="https://github.com/munihani/munihani/blob/main/HAEUN_Portfolio.pdf" 
            style="text-decoration: underline; font-weight: bold;">📂 Haeun's Portfolio 📂</a>
     </div>
    </div>
